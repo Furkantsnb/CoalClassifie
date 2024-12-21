@@ -1,6 +1,7 @@
 
-# Kömür Sınıflandırma Uygulaması - Proje Detayları
+![proje](https://github.com/user-attachments/assets/ab58b797-327f-4e93-96fa-3bef9ec15f78)
 
+# Kömür Sınıflandırma Uygulaması - Proje Detayları
 ## Proje Özellikleri
 
 Bu proje, farklı kömür türlerini sınıflandırmak için **EfficientNetB0** tabanlı bir derin öğrenme modeli sunar. Model, kullanıcıdan alınan bir kömür görüntüsünü analiz ederek şu sınıflardan birini tahmin eder:
